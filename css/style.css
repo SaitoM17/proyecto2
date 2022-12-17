@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 62.5%;
+    font-family: sans-serif;
+}
+
+body{
+    margin: 3rem;
+    padding: 3rem;
+    background-color: grey;
+}
+
+header{
+    margin: 1rem;
+    padding: 0.5rem;
+    align-items: center;
+}
+
+header h1{
+    text-align: center;
+    color: tomato;
+}
+
+.container{
+    text-align: center;
+    justify-content: center;
+    border: 1px solid beige;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    padding: 2rem;
+}
+
+p{
+    padding: 0.5rem;
+}
+
+
+footer{
+    padding: 3rem;
+    text-align: center;
+    color: blue;
+}
+
+
+
