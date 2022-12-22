@@ -16,7 +16,10 @@ body{
 }
 
 header{
-    margin: 1rem;
+    border: 1px solid blue;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    margin-bottom: 1rem;
     padding: 0.5rem;
     align-items: center;
 }
