@@ -29,6 +29,13 @@ header h1{
     color: tomato;
 }
 
+.sub{
+    color: yellow;
+    text-align: center;
+    margin: 0rem 20rem 1rem 20rem;
+    border: 1px solid peru;
+}
+
 .container{
     text-align: center;
     justify-content: center;
